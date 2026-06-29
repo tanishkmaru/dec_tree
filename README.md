@@ -132,6 +132,8 @@ Confidence score
 Top 3 medicine predictions
 Decision path
 Tree visualization
+
+
 Project Structure
 Medicine-Recommendation-System/
 │
@@ -144,6 +146,8 @@ Medicine-Recommendation-System/
 ├── confusion_matrices.png
 ├── tree_limited.png
 ├── README.md
+
+
 Future Improvements
 GUI/Desktop interface
 Web application deployment
@@ -151,9 +155,10 @@ Real medicine database integration
 Probability-based disease prediction
 Support for multiple disease predictions
 Improved symptom matching using NLP
+
+
 Disclaimer
 
 This project is developed for educational and research purposes only. The predictions are generated using a machine learning model and should not be considered medical advice. Always consult a qualified healthcare professional before taking any medication.
 
-```bash
-git clone https://github.com/yourusername/Medicine-Recommendation-System.git
+
